@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_server_async", "04_serve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_server_multithreads", "05_server_multithreads\05_server_multithreads.csproj", "{7CBC77A8-F3B2-425D-BEA4-2F7F73EBD9D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ddos", "06_ddos\06_ddos.csproj", "{77034AF3-C8F6-4ABE-B395-7EF78D3A47B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_udp_app", "07_udp_app\07_udp_app.csproj", "{32A55320-DE2F-4EE7-A9E8-E7C69C631390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7CBC77A8-F3B2-425D-BEA4-2F7F73EBD9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CBC77A8-F3B2-425D-BEA4-2F7F73EBD9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CBC77A8-F3B2-425D-BEA4-2F7F73EBD9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77034AF3-C8F6-4ABE-B395-7EF78D3A47B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77034AF3-C8F6-4ABE-B395-7EF78D3A47B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77034AF3-C8F6-4ABE-B395-7EF78D3A47B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77034AF3-C8F6-4ABE-B395-7EF78D3A47B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A55320-DE2F-4EE7-A9E8-E7C69C631390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A55320-DE2F-4EE7-A9E8-E7C69C631390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A55320-DE2F-4EE7-A9E8-E7C69C631390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A55320-DE2F-4EE7-A9E8-E7C69C631390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
